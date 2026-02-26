@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: _quarto.yml
 
 website:
   title: "DataSci_Portfolio_Website"
